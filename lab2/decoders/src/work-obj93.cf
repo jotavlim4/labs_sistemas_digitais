@@ -1,0 +1,4 @@
+v 4
+file . "decoders_gates.vhdl" "94ac730b7ede325894e304788d7cd90a20f09fa6" "20260608030114.206":
+  entity decoders_gates at 1( 0) + 0 on 11;
+  architecture behav of decoders_gates at 9( 141) + 0 on 12;

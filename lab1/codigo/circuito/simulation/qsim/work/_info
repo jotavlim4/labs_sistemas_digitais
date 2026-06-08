@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\adria\Downloads\Sistemas Digitais\Prática\Atividades\lab_1\circuito\simulation\qsim
+vcircuito
+Z1 IbQcX1^D14JNYD?4K5gOda2
+Z2 VIW2a1_nWm=k9U?[5?P@0B1
+Z3 dC:\Users\adria\Downloads\Sistemas Digitais\Prática\Atividades\lab_1\circuito\simulation\qsim
+Z4 w1778858312
+Z5 8circuito.vo
+Z6 Fcircuito.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 ZRhbo?`0kj6G5<DVe:aP?2
+!s85 0
+Z10 !s108 1778858315.377000
+Z11 !s107 circuito.vo|
+Z12 !s90 -work|work|circuito.vo|
+!s101 -O0
+vcircuito_vlg_check_tst
+!i10b 1
+!s100 ^>fTbfR?^j<_Ae9L4Wk;M3
+IcLIBWd3fRoEFn^]9N;0bc3
+VO<KKTlLCOUHK@d<Wjl6`:1
+R3
+Z13 w1778858311
+Z14 8circuito.vt
+Z15 Fcircuito.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1778858315.451000
+Z17 !s107 circuito.vt|
+Z18 !s90 -work|work|circuito.vt|
+!s101 -O0
+R8
+vcircuito_vlg_sample_tst
+!i10b 1
+!s100 zc@<O25[Lg<;Lh2:P5[2f0
+Id6WI<4M`O@anK5P<O1;@c3
+VVC2n:V9fAL81@@eoaGoNR0
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vcircuito_vlg_vec_tst
+!i10b 1
+!s100 gIZW[kZ_COP@XcbJKKj`M3
+IfN36EkgdbLOS@Hzga5S^B1
+Vc?Redcod;d0dV>=[`H1aX2
+R3
+R13
+R14
+R15
+L0 183
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

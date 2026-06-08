@@ -1,0 +1,116 @@
+$comment
+	File created using the following command:
+		vcd file circuito.msim.vcd -direction
+$end
+$date
+	Fri May 15 12:18:36 2026
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module circuito_vlg_vec_tst $end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$var reg 1 # C $end
+$var wire 1 $ S1 $end
+$var wire 1 % S2 $end
+$var wire 1 & sampler $end
+$scope module i1 $end
+$var wire 1 ' gnd $end
+$var wire 1 ( vcc $end
+$var wire 1 ) unknown $end
+$var tri1 1 * devclrn $end
+$var tri1 1 + devpor $end
+$var tri1 1 , devoe $end
+$var wire 1 - B~combout $end
+$var wire 1 . A~combout $end
+$var wire 1 / C~combout $end
+$var wire 1 0 u4|saida_or3~0_combout $end
+$var wire 1 1 u9|saida_or4~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+x&
+0'
+1(
+x)
+1*
+1+
+1,
+0-
+0.
+0/
+00
+01
+$end
+#140000
+1#
+1/
+0&
+11
+1%
+#260000
+1"
+0#
+1-
+0/
+1&
+#380000
+1#
+1/
+0&
+01
+10
+0%
+1$
+#520000
+1!
+0"
+0#
+1.
+0-
+0/
+1&
+11
+00
+1%
+0$
+#660000
+1#
+1/
+0&
+01
+10
+0%
+1$
+#760000
+1"
+0#
+1-
+0/
+1&
+#860000
+1#
+1/
+0&
+11
+1%
+#980000
+0"
+0#
+0-
+0/
+1&
+00
+0$
+#1000000

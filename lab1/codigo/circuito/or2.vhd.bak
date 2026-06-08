@@ -1,0 +1,15 @@
+entity or2 is
+
+port(
+	en1,en2 : in bit;
+	saida_or : out bit
+	);
+
+end or2;
+
+architecture behav of or2 is
+begin
+
+saida_or <= en1 or en2;
+
+end architecture behav;

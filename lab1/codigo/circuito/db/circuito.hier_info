@@ -1,0 +1,84 @@
+|circuito
+A => PortaAnd2:u2.en1
+A => PortaAnd2:u3.en1
+A => PortaAnd3:u7.en1
+A => PortaAnd3:u8.en1
+A => PortaAnd3:u5.en1
+A => PortaAnd3:u6.en1
+B => PortaAnd2:u1.en1
+B => PortaAnd2:u2.en2
+B => PortaAnd3:u6.en2
+B => PortaAnd3:u8.en2
+B => PortaAnd3:u5.en2
+B => PortaAnd3:u7.en2
+C => PortaAnd2:u1.en2
+C => PortaAnd2:u3.en2
+C => PortaAnd3:u5.en3
+C => PortaAnd3:u8.en3
+C => PortaAnd3:u6.en3
+C => PortaAnd3:u7.en3
+S1 <= PortaOr3:u4.saida_or3
+S2 <= PortaOr4:u9.saida_or4
+
+
+|circuito|PortaAnd2:u1
+en1 => saida_and2.IN0
+en2 => saida_and2.IN1
+saida_and2 <= saida_and2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|circuito|PortaAnd2:u2
+en1 => saida_and2.IN0
+en2 => saida_and2.IN1
+saida_and2 <= saida_and2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|circuito|PortaAnd2:u3
+en1 => saida_and2.IN0
+en2 => saida_and2.IN1
+saida_and2 <= saida_and2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|circuito|PortaOr3:u4
+en1 => saida_or3.IN0
+en2 => saida_or3.IN1
+en3 => saida_or3.IN1
+saida_or3 <= saida_or3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|circuito|PortaAnd3:u5
+en1 => saida_and3.IN0
+en2 => saida_and3.IN1
+en3 => saida_and3.IN1
+saida_and3 <= saida_and3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|circuito|PortaAnd3:u6
+en1 => saida_and3.IN0
+en2 => saida_and3.IN1
+en3 => saida_and3.IN1
+saida_and3 <= saida_and3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|circuito|PortaAnd3:u7
+en1 => saida_and3.IN0
+en2 => saida_and3.IN1
+en3 => saida_and3.IN1
+saida_and3 <= saida_and3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|circuito|PortaAnd3:u8
+en1 => saida_and3.IN0
+en2 => saida_and3.IN1
+en3 => saida_and3.IN1
+saida_and3 <= saida_and3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|circuito|PortaOr4:u9
+en1 => saida_or4.IN0
+en2 => saida_or4.IN1
+en3 => saida_or4.IN1
+en4 => saida_or4.IN1
+saida_or4 <= saida_or4.DB_MAX_OUTPUT_PORT_TYPE
+
+
