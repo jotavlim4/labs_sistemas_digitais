@@ -1,0 +1,7 @@
+v 4
+file . "tb_latch_d.vhdl" "a58ead967846d5f8e2b48ef10e98b7fd5144dcdc" "20260612140531.972":
+  entity tb_latch_d at 1( 0) + 0 on 13;
+  architecture s8im of tb_latch_d at 7( 90) + 0 on 14;
+file . "latch_d.vhdl" "205e909af1152ecfaba507a0fcdbf6cd81ba9db6" "20260612140531.972":
+  entity latch_d at 1( 0) + 0 on 11;
+  architecture behav of latch_d at 11( 123) + 0 on 12;
